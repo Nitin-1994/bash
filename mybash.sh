@@ -1,3 +1,3 @@
 #!/bin/bash
-mkdir -p /tmp/git-test2
-cp -r /etc/sysconfig/network-scripts /tmp/git-test/
+mkdir -p /tmp/git-tesla
+cp -r /etc/hostname /tmp/git-test/
