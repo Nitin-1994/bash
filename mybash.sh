@@ -1,3 +1,3 @@
 #!/bin/bash
-mkdir -p /tmp/git-tes
-cp /etc/hostname /tmp/git-tes/
+mkdir -p /tmp/git-tesp
+cp /etc/hostname /tmp/git-tesp/
