@@ -1,3 +1,3 @@
 #!/bin/bash
-mkdir -p /tmp/git-tesk
-cp /etc/passwd /tmp/git-tesk/
+mkdir -p /tmp/git-desp
+cp /etc/passwd /tmp/git-desp/
